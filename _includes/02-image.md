@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![150 Pixel Image](https://via.placeholder.com/150)
